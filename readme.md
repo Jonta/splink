@@ -16,7 +16,7 @@ See `app.c` and `app.h` for the main "hello world" example program.
 The rest of this doc will try to briefly outline the concept of each section with a few samples of the sort of API's in that section to give you an idea of the sort of features you will find there. The only exhaustive list of features is in the code itself.
 
 
-# Languge Layer
+# Language Layer
 The language layer establishes common types, macros, and functions for the template.
 These are in the files `language_layer.h` and `language_layer.c`
 
